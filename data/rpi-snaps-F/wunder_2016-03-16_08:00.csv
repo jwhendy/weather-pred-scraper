@@ -1,0 +1,37 @@
+src,type,key,dewpoint,wdir,qpf,pop,condition,mslp,temp,sky,snow,humidity,wspd
+wunder,hourly,2016-03-16 20:00,-2,297,0,0,Overcast,1004,43,93,0,54,26
+wunder,hourly,2016-03-17 17:00,-3,329,1,36,Chance of Rain,1013,38,97,0,61,19
+wunder,hourly,2016-03-17 07:00,-1,298,0,44,Snow Showers,1007,36,100,3,80,26
+wunder,hourly,2016-03-17 10:00,-2,316,0,40,Snow Showers,1009,37,96,0,73,19
+wunder,hourly,2016-03-17 08:00,-2,305,0,48,Snow Showers,1007,35,99,0,80,24
+wunder,hourly,2016-03-16 11:00,-1,299,0,2,Partly Cloudy,1001,43,91,0,63,39
+wunder,hourly,2016-03-17 02:00,-1,289,0,6,Overcast,1005,38,88,0,71,26
+wunder,hourly,2016-03-17 16:00,-3,326,1,40,Chance of Rain,1012,38,99,0,60,19
+wunder,hourly,2016-03-16 14:00,-2,296,0,2,Partly Cloudy,1002,45,93,0,52,40
+wunder,hourly,2016-03-16 16:00,-3,296,0,2,Partly Cloudy,1002,46,94,0,46,39
+wunder,hourly,2016-03-17 12:00,-3,315,0,14,Overcast,1010,38,97,0,63,21
+wunder,hourly,2016-03-16 10:00,1,300,0,3,Partly Cloudy,1000,42,96,0,69,32
+wunder,hourly,2016-03-17 19:00,-3,338,0,38,Snow,1014,38,99,0,65,14
+wunder,hourly,2016-03-17 06:00,-1,293,0,46,Snow Showers,1006,36,100,0,79,24
+wunder,hourly,2016-03-17 00:00,-2,293,0,3,Overcast,1005,40,91,0,66,26
+wunder,hourly,2016-03-16 19:00,-2,297,0,1,Overcast,1003,45,94,0,51,29
+wunder,hourly,2016-03-16 12:00,-1,297,0,2,Partly Cloudy,1001,44,91,0,59,40
+wunder,hourly,2016-03-16 23:00,-2,296,0,1,Overcast,1005,41,94,0,61,27
+wunder,hourly,2016-03-16 17:00,-3,295,0,1,Partly Cloudy,1003,46,93,0,48,35
+wunder,hourly,2016-03-16 13:00,-1,297,0,2,Partly Cloudy,1002,45,94,0,57,42
+wunder,hourly,2016-03-17 04:00,-1,292,0,8,Overcast,1006,37,100,0,74,24
+wunder,hourly,2016-03-17 14:00,-3,319,1,37,Chance of Rain,1011,38,98,0,61,21
+wunder,hourly,2016-03-17 09:00,-2,311,0,44,Snow Showers,1008,35,97,0,77,26
+wunder,hourly,2016-03-16 21:00,-2,296,0,0,Overcast,1004,42,93,0,58,24
+wunder,hourly,2016-03-17 03:00,-1,290,0,8,Overcast,1005,38,99,0,73,26
+wunder,hourly,2016-03-16 15:00,-3,298,0,2,Partly Cloudy,1002,46,91,0,47,40
+wunder,hourly,2016-03-16 08:00,1,305,0,4,Partly Cloudy,1000,41,99,0,76,32
+wunder,hourly,2016-03-17 11:00,-2,318,0,18,Overcast,1009,38,96,0,70,21
+wunder,hourly,2016-03-17 05:00,-1,292,0,45,Snow,1006,37,100,0,77,24
+wunder,hourly,2016-03-17 01:00,-1,290,0,4,Overcast,1005,39,90,0,69,26
+wunder,hourly,2016-03-17 15:00,-3,327,1,39,Chance of Rain,1011,38,99,0,60,21
+wunder,hourly,2016-03-17 13:00,-3,316,0,14,Overcast,1011,39,98,0,60,21
+wunder,hourly,2016-03-16 22:00,-2,295,0,1,Overcast,1005,41,92,0,60,27
+wunder,hourly,2016-03-16 09:00,1,302,0,4,Partly Cloudy,1000,42,90,0,74,32
+wunder,hourly,2016-03-17 18:00,-3,335,0,40,Snow,1014,38,99,0,63,16
+wunder,hourly,2016-03-16 18:00,-3,296,0,1,Partly Cloudy,1003,46,89,0,48,32

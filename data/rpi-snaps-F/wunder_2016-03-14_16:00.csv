@@ -1,0 +1,37 @@
+src,type,key,dewpoint,wdir,qpf,pop,condition,mslp,temp,sky,snow,humidity,wspd
+wunder,hourly,2016-03-16 00:00,4,290,1,61,Rain,999,45,100,0,77,26
+wunder,hourly,2016-03-15 22:00,4,305,1,45,Chance of Rain,999,47,94,0,78,27
+wunder,hourly,2016-03-14 20:00,10,109,0,15,Mostly Cloudy,1003,55,75,0,83,16
+wunder,hourly,2016-03-15 01:00,9,118,1,48,Chance of Rain,1003,51,77,0,90,18
+wunder,hourly,2016-03-15 10:00,10,117,1,71,Rain,999,53,100,0,87,24
+wunder,hourly,2016-03-15 21:00,6,308,1,46,Chance of Rain,998,48,94,0,79,26
+wunder,hourly,2016-03-15 15:00,10,150,2,77,Thunderstorm,997,54,100,0,86,21
+wunder,hourly,2016-03-15 17:00,9,251,1,67,Rain,997,53,100,0,82,21
+wunder,hourly,2016-03-15 11:00,10,123,2,68,Rain,998,53,100,0,90,24
+wunder,hourly,2016-03-15 23:00,4,295,1,63,Rain,999,46,100,0,79,26
+wunder,hourly,2016-03-14 19:00,10,105,0,15,Mostly Cloudy,1002,56,76,0,80,16
+wunder,hourly,2016-03-14 22:00,9,120,0,30,Chance of Rain,1003,52,74,0,86,16
+wunder,hourly,2016-03-15 03:00,9,116,1,54,Chance of Rain,1001,51,88,0,92,19
+wunder,hourly,2016-03-15 18:00,8,282,1,60,Rain,997,52,100,0,79,23
+wunder,hourly,2016-03-14 16:00,11,119,0,0,Overcast,1003,56,99,0,82,10
+wunder,hourly,2016-03-15 13:00,10,131,3,88,Rain,998,54,100,0,88,23
+wunder,hourly,2016-03-15 00:00,9,121,0,39,Chance of Rain,1003,51,71,0,89,16
+wunder,hourly,2016-03-15 06:00,9,122,0,48,Chance of Rain,1000,50,94,0,90,19
+wunder,hourly,2016-03-15 16:00,10,185,2,68,Thunderstorm,996,54,100,0,85,21
+wunder,hourly,2016-03-15 12:00,10,127,3,88,Rain,998,54,100,0,89,24
+wunder,hourly,2016-03-14 21:00,9,116,0,15,Mostly Cloudy,1003,54,74,0,85,16
+wunder,hourly,2016-03-14 18:00,11,109,0,0,Mostly Cloudy,1003,56,79,0,83,11
+wunder,hourly,2016-03-15 14:00,10,136,2,81,Thunderstorm,997,54,100,0,86,23
+wunder,hourly,2016-03-15 02:00,9,120,1,56,Chance of Rain,1002,51,84,0,90,19
+wunder,hourly,2016-03-16 02:00,2,297,1,53,Chance of Rain,998,44,90,0,76,27
+wunder,hourly,2016-03-15 05:00,9,125,0,53,Chance of Rain,1000,51,96,0,89,21
+wunder,hourly,2016-03-15 20:00,6,296,1,46,Chance of Rain,998,49,95,0,82,24
+wunder,hourly,2016-03-15 08:00,9,115,1,54,Chance of Rain,999,51,99,0,89,19
+wunder,hourly,2016-03-16 03:00,2,300,1,52,Chance of Rain,998,43,90,0,75,29
+wunder,hourly,2016-03-14 17:00,11,115,0,0,Overcast,1003,56,92,0,82,11
+wunder,hourly,2016-03-15 04:00,9,114,1,50,Chance of Rain,1001,51,93,0,91,24
+wunder,hourly,2016-03-15 07:00,9,116,1,38,Chance of Rain,1000,50,99,0,90,19
+wunder,hourly,2016-03-14 23:00,9,121,0,36,Chance of Rain,1003,52,64,0,88,18
+wunder,hourly,2016-03-16 01:00,3,292,1,62,Chance of Rain,998,45,91,0,75,27
+wunder,hourly,2016-03-15 19:00,7,293,1,59,Chance of Rain,998,50,88,0,79,24
+wunder,hourly,2016-03-15 09:00,9,116,1,56,Chance of Rain,999,52,99,0,88,23

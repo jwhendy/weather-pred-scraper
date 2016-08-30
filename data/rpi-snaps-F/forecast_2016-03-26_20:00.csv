@@ -1,0 +1,57 @@
+src,type,key,precipAccumulation,precipType,cloudCover,humidity,visibility,summary,pressure,windSpeed,temperature,time,windBearing,precipIntensity,dewPoint,precipProbability,temperatureMin,temperatureMax
+forecast.io,hourly,2016-03-27 12:00,NA,NA,0.79,0.81,7.9,Mostly Cloudy,1017.13,11.58,40.11,1459098000,329,0,34.89,0,NA,NA
+forecast.io,hourly,2016-03-27 14:00,NA,NA,0.66,0.73,9.01,Mostly Cloudy,1016.51,11.43,43.61,1459105200,327,0,35.61,0,NA,NA
+forecast.io,hourly,2016-03-28 12:00,NA,NA,0.36,0.54,10,Partly Cloudy,1018.6,4.31,48.56,1459184400,221,0,32.53,0,NA,NA
+forecast.io,daily,2016-03-31 00:00,NA,rain,0.95,0.79,NA,Light rain until afternoon.,1000.56,13.62,NA,1459400400,336,0.01,34.77,0.64,35.45,48.71
+forecast.io,hourly,2016-03-27 22:00,NA,NA,0,0.73,10,Clear,1017.5,0.54,41.15,1459134000,294,0,33.2,0,NA,NA
+forecast.io,daily,2016-04-02 00:00,0.257,snow,0.77,0.53,NA,Breezy in the morning and flurries until afternoon.,1013.22,22.44,NA,1459573200,323,0.001,10.94,0.12,18.63,39.25
+forecast.io,daily,2016-04-01 00:00,NA,rain,0.61,0.72,NA,Mostly cloudy throughout the day and breezy overnight.,1009.85,13.76,NA,1459486800,302,0.0016,27.73,0.16,29.38,43.53
+forecast.io,hourly,2016-03-26 22:00,NA,rain,0.68,0.9,6.22,Light Rain,1016.5,4.37,42.74,1459047600,59,0.0336,40.08,0.67,NA,NA
+forecast.io,hourly,2016-03-27 16:00,NA,NA,0.54,0.64,9.69,Partly Cloudy,1015.81,11.08,48.82,1459112400,325,0,37.26,0,NA,NA
+forecast.io,hourly,2016-03-28 14:00,NA,NA,0.21,0.43,10,Clear,1018.13,3.87,56.46,1459191600,228,0,34.15,0,NA,NA
+forecast.io,hourly,2016-03-28 02:00,NA,NA,0.06,0.85,10,Clear,1017.44,3.78,35.92,1459148400,210,0,31.98,0,NA,NA
+forecast.io,current,2016-03-26 19:58,NA,rain,0.45,0.89,6.35,Partly Cloudy,1016.23,3.33,42.97,1459040313,49,0.0042,39.97,0.43,NA,NA
+forecast.io,hourly,2016-03-27 09:00,NA,rain,1,0.89,7.07,Overcast,1016.95,11.41,37.33,1459087200,327,0.0036,34.41,0.13,NA,NA
+forecast.io,hourly,2016-03-28 05:00,NA,NA,0.39,0.9,10,Partly Cloudy,1017.65,3.93,33.3,1459159200,216,0,30.81,0,NA,NA
+forecast.io,hourly,2016-03-27 13:00,NA,NA,0.71,0.78,8.45,Mostly Cloudy,1016.88,11.58,41.55,1459101600,329,0,35.2,0,NA,NA
+forecast.io,hourly,2016-03-28 08:00,NA,NA,0.71,0.86,10,Mostly Cloudy,1018.25,3.69,34.82,1459170000,217,0,30.96,0,NA,NA
+forecast.io,hourly,2016-03-27 17:00,NA,NA,0.42,0.62,10,Partly Cloudy,1015.77,9.96,50.28,1459116000,326,0,37.62,0,NA,NA
+forecast.io,daily,2016-03-26 00:00,NA,rain,0.69,0.81,8.53,Light rain in the morning and afternoon.,1016.56,1.95,NA,1458968400,110,0.0125,38.22,0.71,39.07,50.4
+forecast.io,hourly,2016-03-27 23:00,NA,NA,0,0.77,10,Clear,1017.59,0.9,39.25,1459137600,202,0,32.55,0,NA,NA
+forecast.io,hourly,2016-03-28 04:00,NA,NA,0.23,0.89,10,Clear,1017.53,4.05,34.52,1459155600,218,0,31.59,0,NA,NA
+forecast.io,hourly,2016-03-28 07:00,NA,NA,0.74,0.9,10,Mostly Cloudy,1018,3.65,32.57,1459166400,212,0,30.03,0,NA,NA
+forecast.io,hourly,2016-03-26 21:00,NA,rain,0.56,0.89,6.17,Light Rain,1016.43,4.03,42.96,1459044000,57,0.0203,40.04,0.63,NA,NA
+forecast.io,hourly,2016-03-27 11:00,NA,NA,0.91,0.84,7.68,Mostly Cloudy,1017.31,11.7,38.56,1459094400,327,0,34.15,0,NA,NA
+forecast.io,hourly,2016-03-27 06:00,NA,rain,1,0.94,5.43,Light Rain,1015.41,9.69,38.98,1459076400,339,0.0288,37.28,0.65,NA,NA
+forecast.io,hourly,2016-03-28 19:00,NA,NA,0.01,0.5,10,Clear,1017.94,1.24,55.57,1459209600,80,0,37.12,0,NA,NA
+forecast.io,daily,2016-03-30 00:00,NA,rain,0.94,0.86,NA,Light rain throughout the day and breezy starting in the evening.,1001.11,3.74,NA,1459314000,139,0.0239,49.77,0.7,45.32,66.26
+forecast.io,hourly,2016-03-27 03:00,NA,rain,1,0.93,6.6,Light Rain,1014.93,6.04,41.02,1459065600,16,0.0349,39.21,0.68,NA,NA
+forecast.io,hourly,2016-03-28 09:00,NA,NA,0.59,0.79,10,Partly Cloudy,1018.55,3.74,37.88,1459173600,223,0,31.86,0,NA,NA
+forecast.io,hourly,2016-03-27 01:00,NA,rain,1,0.92,6.82,Light Rain,1015.51,5.31,41.76,1459058400,45,0.0244,39.72,0.63,NA,NA
+forecast.io,hourly,2016-03-27 07:00,NA,rain,1,0.92,5.56,Light Rain,1015.89,10.22,38.03,1459080000,331,0.0159,36,0.57,NA,NA
+forecast.io,hourly,2016-03-27 21:00,NA,NA,0.02,0.69,10,Clear,1017.1,2.18,43.66,1459130400,327,0,34.21,0,NA,NA
+forecast.io,hourly,2016-03-26 23:00,NA,rain,0.8,0.91,6.16,Light Rain,1016.27,4.67,42.34,1459051200,63,0.0433,40.03,0.71,NA,NA
+forecast.io,hourly,2016-03-27 19:00,NA,NA,0.12,0.63,10,Clear,1016.08,6.54,48.19,1459123200,330,0,36.02,0,NA,NA
+forecast.io,hourly,2016-03-26 19:00,NA,rain,0.7,0.88,7.23,Light Rain,1016.11,3.31,44.71,1459036800,29,0.0191,41.47,0.6,NA,NA
+forecast.io,daily,2016-03-29 00:00,NA,rain,0.73,0.65,9.81,Light rain in the evening and overnight.,1017.21,11.55,NA,1459227600,129,0.0016,38.67,0.53,37.87,66.45
+forecast.io,hourly,2016-03-27 05:00,NA,rain,1,0.94,5.81,Light Rain,1015.01,7.84,40.01,1459072800,351,0.0413,38.36,0.7,NA,NA
+forecast.io,hourly,2016-03-28 01:00,NA,NA,0.01,0.83,10,Clear,1017.43,3.39,36.73,1459144800,206,0,32.07,0,NA,NA
+forecast.io,hourly,2016-03-28 10:00,NA,NA,0.48,0.71,10,Partly Cloudy,1018.75,3.96,41.09,1459177200,224,0,32.44,0,NA,NA
+forecast.io,hourly,2016-03-27 20:00,NA,NA,0.06,0.65,10,Clear,1016.52,4.36,46.25,1459126800,330,0,35.21,0,NA,NA
+forecast.io,hourly,2016-03-28 15:00,NA,NA,0.09,0.41,10,Clear,1017.78,3.44,59.52,1459195200,237,0,35.74,0,NA,NA
+forecast.io,daily,2016-03-27 00:00,NA,rain,0.67,0.8,8.01,Light rain in the morning.,1016.23,7.33,NA,1459054800,336,0.011,36.36,0.7,37.33,50.28
+forecast.io,hourly,2016-03-28 17:00,NA,NA,0,0.42,10,Clear,1017.54,1.77,60.5,1459202400,246,0,37.52,0,NA,NA
+forecast.io,hourly,2016-03-28 11:00,NA,NA,0.41,0.63,10,Partly Cloudy,1018.74,4.18,44.56,1459180800,222,0,32.61,0,NA,NA
+forecast.io,hourly,2016-03-27 04:00,NA,rain,1,0.94,6.27,Light Rain,1014.83,6.68,40.68,1459069200,4,0.04,39.02,0.7,NA,NA
+forecast.io,hourly,2016-03-26 20:00,NA,rain,0.44,0.89,6.33,Light Rain,1016.23,3.33,42.93,1459040400,49,0.0165,39.93,0.64,NA,NA
+forecast.io,hourly,2016-03-28 03:00,NA,NA,0.13,0.87,10,Clear,1017.46,3.98,35.24,1459152000,215,0,31.87,0,NA,NA
+forecast.io,hourly,2016-03-28 18:00,NA,NA,0,0.46,10,Clear,1017.64,0.48,58.3,1459206000,245,0,37.56,0,NA,NA
+forecast.io,hourly,2016-03-28 13:00,NA,NA,0.31,0.47,10,Partly Cloudy,1018.41,4.21,52.76,1459188000,222,0,32.97,0,NA,NA
+forecast.io,hourly,2016-03-27 02:00,NA,rain,1,0.93,6.72,Light Rain,1015.2,5.57,41.54,1459062000,28,0.0262,39.59,0.64,NA,NA
+forecast.io,hourly,2016-03-27 18:00,NA,NA,0.26,0.62,10,Partly Cloudy,1015.86,8.44,49.6,1459119600,329,0,36.92,0,NA,NA
+forecast.io,hourly,2016-03-27 08:00,NA,rain,1,0.91,6.16,Light Rain,1016.43,10.85,37.86,1459083600,327,0.0101,35.42,0.51,NA,NA
+forecast.io,daily,2016-03-28 00:00,NA,NA,0.23,0.67,10,Partly cloudy until afternoon.,1018.22,2.04,NA,1459141200,198,0,33.43,0,31.95,61.28
+forecast.io,hourly,2016-03-27 15:00,NA,NA,0.61,0.68,9.43,Mostly Cloudy,1016.07,11.34,46.34,1459108800,325,0,36.38,0,NA,NA
+forecast.io,hourly,2016-03-28 06:00,NA,NA,0.61,0.91,10,Mostly Cloudy,1017.82,3.73,31.95,1459162800,213,0,29.74,0,NA,NA
+forecast.io,hourly,2016-03-27 10:00,NA,NA,0.99,0.87,7.38,Overcast,1017.28,11.47,37.93,1459090800,327,0,34.41,0,NA,NA
+forecast.io,hourly,2016-03-28 16:00,NA,NA,0,0.41,10,Clear,1017.57,2.82,61.28,1459198800,244,0,37.15,0,NA,NA

@@ -1,0 +1,37 @@
+src,type,key,dewpoint,wdir,qpf,pop,condition,mslp,temp,sky,snow,humidity,wspd
+wunder,hourly,2016-03-27 12:00,0,326,0,3,Overcast,1017,42,83,0,67,19
+wunder,hourly,2016-03-27 14:00,-1,321,0,2,Mostly Cloudy,1016,45,61,0,57,18
+wunder,hourly,2016-03-27 22:00,-2,260,0,1,Clear,1017,40,1,0,65,5
+wunder,hourly,2016-03-26 14:00,4,145,0,1,Overcast,1017,50,84,0,67,11
+wunder,hourly,2016-03-26 22:00,4,66,1,92,Rain,1016,44,100,0,87,8
+wunder,hourly,2016-03-27 16:00,-2,317,0,1,Partly Cloudy,1015,48,45,0,48,18
+wunder,hourly,2016-03-27 09:00,1,331,0,18,Overcast,1016,38,99,0,82,18
+wunder,hourly,2016-03-27 13:00,0,327,0,3,Mostly Cloudy,1016,44,76,0,63,19
+wunder,hourly,2016-03-26 16:00,4,126,0,36,Chance of Rain,1016,49,92,0,70,13
+wunder,hourly,2016-03-27 17:00,-2,310,0,0,Partly Cloudy,1015,48,42,0,47,16
+wunder,hourly,2016-03-27 23:00,-2,250,0,1,Clear,1017,39,1,0,69,5
+wunder,hourly,2016-03-26 18:00,5,83,1,80,Rain,1016,47,100,0,80,14
+wunder,hourly,2016-03-26 21:00,5,46,1,92,Rain,1016,44,100,0,89,10
+wunder,hourly,2016-03-27 11:00,0,327,0,15,Overcast,1017,41,98,0,71,18
+wunder,hourly,2016-03-27 06:00,1,326,0,59,Chance of Rain,1015,37,100,0,88,13
+wunder,hourly,2016-03-27 03:00,3,357,1,69,Chance of Rain,1014,40,99,0,92,8
+wunder,hourly,2016-03-27 01:00,4,29,1,67,Chance of Rain,1015,41,100,0,92,10
+wunder,hourly,2016-03-27 07:00,1,327,0,41,Chance of Rain,1015,37,100,0,88,16
+wunder,hourly,2016-03-27 21:00,-1,274,0,1,Clear,1017,42,9,0,62,6
+wunder,hourly,2016-03-26 23:00,4,92,1,77,Rain,1016,43,100,0,89,8
+wunder,hourly,2016-03-27 19:00,-1,295,0,0,Clear,1016,46,19,0,55,10
+wunder,hourly,2016-03-26 19:00,6,41,1,70,Rain,1016,46,100,0,86,11
+wunder,hourly,2016-03-27 05:00,2,332,1,52,Chance of Rain,1014,38,100,0,89,10
+wunder,hourly,2016-03-28 01:00,-2,220,0,0,Clear,1017,37,5,0,73,5
+wunder,hourly,2016-03-26 15:00,4,137,0,19,Overcast,1016,50,88,0,67,13
+wunder,hourly,2016-03-27 20:00,-1,284,0,0,Clear,1016,44,17,0,60,6
+wunder,hourly,2016-03-27 00:00,4,48,1,81,Chance of Rain,1016,42,100,0,91,6
+wunder,hourly,2016-03-27 04:00,3,342,0,77,Chance of Rain,1014,39,100,0,91,10
+wunder,hourly,2016-03-26 20:00,6,52,1,91,Rain,1016,45,100,0,89,10
+wunder,hourly,2016-03-26 17:00,5,117,1,73,Rain,1016,48,100,0,77,13
+wunder,hourly,2016-03-27 02:00,3,18,1,66,Chance of Rain,1015,40,100,0,92,8
+wunder,hourly,2016-03-27 18:00,-1,303,0,0,Partly Cloudy,1015,48,30,0,51,13
+wunder,hourly,2016-03-27 08:00,1,328,0,22,Overcast,1016,37,99,0,85,16
+wunder,hourly,2016-03-28 00:00,-2,235,0,0,Clear,1017,38,3,0,70,3
+wunder,hourly,2016-03-27 15:00,-1,320,0,1,Partly Cloudy,1016,47,47,0,53,18
+wunder,hourly,2016-03-27 10:00,1,329,0,17,Overcast,1017,40,99,0,76,18

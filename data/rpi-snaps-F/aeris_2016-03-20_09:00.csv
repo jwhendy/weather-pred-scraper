@@ -1,0 +1,60 @@
+src,type,key,dewpointC,pop,tempC,tempF,maxTempC,minTempC,humidity,weather,weatherPrimary,snowCM,windSpeedKPH,precipMM,windDirDEG,sky,pressureMB,iceaccum,timestamp
+aeris,hourly,2016-03-21 17:00,-1,0,9,48,9,9,50,Mostly Cloudy,Mostly Cloudy,0,14,0,150,74,1012,0,1458597600
+aeris,hourly,2016-03-22 03:00,1,5,4,39,4,4,81,Partly Cloudy,Partly Cloudy,0,8,0,140,66,1003,0,1458633600
+aeris,hourly,2016-03-21 22:00,0,5,5,41,5,5,70,Mostly Cloudy,Mostly Cloudy,0,14,0,130,71,1008,0,1458615600
+aeris,hourly,2016-03-21 09:00,-3,0,1,34,1,1,78,Mostly Cloudy,Mostly Cloudy,0,7,0,160,76,1021,0,1458568800
+aeris,hourly,2016-03-20 14:00,-4,0,5,41,5,5,55,Mostly Cloudy,Mostly Cloudy,0,13,0,320,73,1027,0,1458500400
+aeris,hourly,2016-03-21 19:00,0,0,8,46,8,8,56,Mostly Cloudy,Mostly Cloudy,0,13,0,140,80,1010,0,1458604800
+aeris,hourly,2016-03-20 23:00,-3,0,2,36,2,2,72,Mostly Cloudy,Mostly Cloudy,0,6,0,300,82,1025,0,1458532800
+aeris,hourly,2016-03-22 05:00,1,5,3,37,3,3,86,Partly Cloudy,Partly Cloudy,0,7,0,10,62,1002,0,1458640800
+aeris,hourly,2016-03-20 17:00,-4,0,5,41,5,5,53,Mostly Cloudy,Mostly Cloudy,0,13,0,310,76,1025,0,1458511200
+aeris,hourly,2016-03-21 03:00,-3,0,-1,30,-1,-1,85,Mostly Cloudy,Mostly Cloudy,0,1,0,250,81,1024,0,1458547200
+aeris,hourly,2016-03-20 11:00,-3,0,2,36,2,2,67,Partly Cloudy,Partly Cloudy,0,12,0,330,67,1028,0,1458489600
+aeris,hourly,2016-03-21 11:00,-3,0,3,37,3,3,64,Mostly Cloudy,Mostly Cloudy,0,12,0,160,74,1020,0,1458576000
+aeris,hourly,2016-03-20 21:00,-3,0,3,37,3,3,66,Mostly Cloudy,Mostly Cloudy,0,7,0,310,78,1025,0,1458525600
+aeris,hourly,2016-03-21 20:00,0,5,7,45,7,7,62,Mostly Cloudy,Mostly Cloudy,0,13,0,140,78,1009,0,1458608400
+aeris,hourly,2016-03-20 20:00,-3,0,3,37,3,3,61,Mostly Cloudy,Mostly Cloudy,0,10,0,310,75,1025,0,1458522000
+aeris,hourly,2016-03-21 05:00,-3,0,-1,30,-1,-1,88,Mostly Cloudy,Mostly Cloudy,0,1,0,220,79,1023,0,1458554400
+aeris,hourly,2016-03-21 18:00,-1,0,9,48,9,9,52,Mostly Cloudy,Mostly Cloudy,0,14,0,150,78,1011,0,1458601200
+aeris,hourly,2016-03-20 15:00,-4,0,5,41,5,5,52,Mostly Cloudy,Mostly Cloudy,0,13,0,310,76,1026,0,1458504000
+aeris,hourly,2016-03-20 18:00,-3,0,4,39,4,4,57,Mostly Cloudy,Mostly Cloudy,0,13,0,310,75,1025,0,1458514800
+aeris,hourly,2016-03-22 08:00,1,7,3,37,3,3,88,Partly Cloudy,Partly Cloudy,0,7,0,10,56,1002,0,1458651600
+aeris,hourly,2016-03-20 12:00,-3,0,3,37,3,3,65,Partly Cloudy,Partly Cloudy,0,12,0,320,69,1028,0,1458493200
+aeris,hourly,2016-03-21 14:00,-2,0,8,46,8,8,49,Mostly Cloudy,Mostly Cloudy,0,14,0,160,70,1016,0,1458586800
+aeris,hourly,2016-03-21 23:00,0,5,5,41,5,5,73,Mostly Cloudy,Mostly Cloudy,0,13,0,140,70,1007,0,1458619200
+aeris,hourly,2016-03-21 08:00,-3,0,-1,30,-1,-1,85,Mostly Cloudy,Mostly Cloudy,0,7,0,160,78,1022,0,1458565200
+aeris,hourly,2016-03-20 19:00,-3,0,4,39,4,4,59,Mostly Cloudy,Mostly Cloudy,0,12,0,310,73,1025,0,1458518400
+aeris,hourly,2016-03-20 22:00,-3,0,2,36,2,2,70,Mostly Cloudy,Mostly Cloudy,0,6,0,310,80,1026,0,1458529200
+aeris,hourly,2016-03-21 10:00,-3,0,2,36,2,2,72,Mostly Cloudy,Mostly Cloudy,0,10,0,150,75,1021,0,1458572400
+aeris,hourly,2016-03-21 16:00,-2,0,9,48,9,9,48,Mostly Cloudy,Mostly Cloudy,0,17,0,150,72,1013,0,1458594000
+aeris,hourly,2016-03-20 16:00,-4,0,5,41,5,5,53,Mostly Cloudy,Mostly Cloudy,0,14,0,320,78,1026,0,1458507600
+aeris,hourly,2016-03-20 13:00,-4,0,4,39,4,4,57,Mostly Cloudy,Mostly Cloudy,0,13,0,320,71,1027,0,1458496800
+aeris,hourly,2016-03-21 06:00,-3,0,-2,28,-2,-2,88,Mostly Cloudy,Mostly Cloudy,0,4,0,180,79,1023,0,1458558000
+aeris,hourly,2016-03-20 10:00,-3,0,1,34,1,1,72,Partly Cloudy,Partly Cloudy,0,12,0,330,65,1029,0,1458486000
+aeris,hourly,2016-03-22 01:00,1,5,4,39,4,4,78,Partly Cloudy,Partly Cloudy,0,10,0,140,69,1005,0,1458626400
+aeris,hourly,2016-03-22 04:00,0,5,3,37,3,3,82,Partly Cloudy,Partly Cloudy,0,7,0,140,64,1002,0,1458637200
+aeris,hourly,2016-03-22 06:00,1,5,3,37,3,3,89,Partly Cloudy,Partly Cloudy,0,6,0,10,61,1002,0,1458644400
+aeris,hourly,2016-03-22 00:00,0,5,4,39,4,4,76,Mostly Cloudy,Mostly Cloudy,0,12,0,140,70,1006,0,1458622800
+aeris,hourly,2016-03-21 04:00,-3,0,-1,30,-1,-1,88,Mostly Cloudy,Mostly Cloudy,0,1,0,240,79,1024,0,1458550800
+aeris,hourly,2016-03-21 12:00,-3,0,5,41,5,5,57,Mostly Cloudy,Mostly Cloudy,0,12,0,160,71,1019,0,1458579600
+aeris,hourly,2016-03-20 09:00,-3,0,0,32,0,0,78,Partly Cloudy,Partly Cloudy,0,10,0,330,63,1029,0,1458482400
+aeris,hourly,2016-03-21 15:00,-2,0,8,46,8,8,47,Mostly Cloudy,Mostly Cloudy,0,17,0,150,71,1014,0,1458590400
+aeris,hourly,2016-03-21 07:00,-4,0,-1,30,-1,-1,85,Mostly Cloudy,Mostly Cloudy,0,6,0,160,79,1022,0,1458561600
+aeris,hourly,2016-03-22 09:00,2,7,4,39,4,4,84,Partly Cloudy,Partly Cloudy,0,9,0,10,53,1002,0,1458655200
+aeris,hourly,2016-03-21 01:00,-3,0,0,32,0,0,78,Mostly Cloudy,Mostly Cloudy,0,4,0,280,87,1024,0,1458540000
+aeris,hourly,2016-03-21 02:00,-3,0,0,32,0,0,79,Mostly Cloudy,Mostly Cloudy,0,4,0,270,84,1024,0,1458543600
+aeris,hourly,2016-03-22 02:00,1,5,4,39,4,4,80,Partly Cloudy,Partly Cloudy,0,9,0,140,67,1004,0,1458630000
+aeris,hourly,2016-03-21 00:00,-3,0,1,34,1,1,72,Mostly Cloudy,Mostly Cloudy,0,4,0,290,85,1025,0,1458536400
+aeris,hourly,2016-03-21 21:00,0,5,6,43,6,6,66,Mostly Cloudy,Mostly Cloudy,0,14,0,130,75,1009,0,1458612000
+aeris,hourly,2016-03-21 13:00,-3,0,7,45,7,7,51,Mostly Cloudy,Mostly Cloudy,0,13,0,160,70,1017,0,1458583200
+aeris,hourly,2016-03-22 07:00,1,5,2,36,2,2,93,Partly Cloudy,Partly Cloudy,0,6,0,10,59,1001,0,1458648000
+aeris,daily,2016-03-27 07:00,-3,38,None,None,6,0,66,Mostly Cloudy with Chance of Light Wintry Mix,Isolated Wintry Mix,0,13,0,310,80,1017,None,1459080000
+aeris,daily,2016-03-20 07:00,-3,3,None,None,5,-2,65,Partly Cloudy,Partly Cloudy,0,12,0,320,69,1027,0,1458475200
+aeris,daily,2016-03-26 07:00,-1,32,None,None,7,0,76,Partly Cloudy with Slight Chance of Light Wintry Mix,Isolated Wintry Mix,0,10,0.08,200,66,1018,None,1458993600
+aeris,daily,2016-03-25 07:00,-6,10,None,None,6,0,69,Partly Cloudy,Partly Cloudy,0,13,1.29,170,57,1009,None,1458907200
+aeris,daily,2016-03-21 07:00,-4,0,None,None,9,2,61,Mostly Cloudy,Mostly Cloudy,0,12,0,160,74,1017,0,1458561600
+aeris,daily,2016-03-28 07:00,-3,None,None,None,2,0,89,Cloudy with Scattered Very Light Wintry Mix,Scattered Wintry Mix,0,29,14.88,147,99,1007,None,1459166400
+aeris,daily,2016-03-24 07:00,-6,62,None,None,3,-4,65,Partly Cloudy with Chance of Light Snow,Isolated Snow Showers,0,18,1.24,10,61,1013,None,1458820800
+aeris,daily,2016-03-23 07:00,-2,50,None,None,3,-3,69,Cloudy with Chance of Light Wintry Mix,Scattered Wintry Mix,0,26,47.61,70,96,1011,None,1458734400
+aeris,daily,2016-03-29 07:00,-6,None,None,None,-4,-5,82,Cloudy with Very Light Snow,Snow,0,39,1.42,294,99,1017,None,1459252800
+aeris,daily,2016-03-22 07:00,1,7,None,None,11,1,71,Partly Cloudy,Partly Cloudy,0,12,0.13,10,53,1004,0,1458648000

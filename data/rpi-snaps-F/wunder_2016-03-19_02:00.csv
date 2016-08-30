@@ -1,0 +1,37 @@
+src,type,key,dewpoint,wdir,qpf,pop,condition,mslp,temp,sky,snow,humidity,wspd
+wunder,hourly,2016-03-19 16:00,-4,15,0,15,Overcast,1026,40,95,0,52,13
+wunder,hourly,2016-03-20 08:00,-6,327,0,2,Partly Cloudy,1029,30,51,0,70,8
+wunder,hourly,2016-03-20 05:00,-4,311,0,12,Mostly Cloudy,1028,30,63,0,77,6
+wunder,hourly,2016-03-19 10:00,-3,52,0,15,Overcast,1026,33,97,0,76,13
+wunder,hourly,2016-03-19 20:00,-4,348,0,1,Mostly Cloudy,1027,37,77,0,61,11
+wunder,hourly,2016-03-19 03:00,-4,27,0,8,Overcast,1023,29,98,0,83,13
+wunder,hourly,2016-03-20 11:00,-6,324,0,0,Partly Cloudy,1028,36,45,0,54,13
+wunder,hourly,2016-03-19 09:00,-3,46,0,15,Overcast,1025,32,99,0,80,13
+wunder,hourly,2016-03-19 06:00,-4,31,0,3,Overcast,1024,31,98,0,79,14
+wunder,hourly,2016-03-19 04:00,-4,28,0,9,Overcast,1023,29,100,0,82,13
+wunder,hourly,2016-03-19 02:00,-4,30,0,15,Overcast,1023,29,99,0,84,13
+wunder,hourly,2016-03-20 07:00,-6,323,0,12,Partly Cloudy,1029,30,53,0,71,8
+wunder,hourly,2016-03-19 08:00,-3,41,0,15,Overcast,1025,31,97,0,82,14
+wunder,hourly,2016-03-19 18:00,-4,1,0,0,Overcast,1026,40,86,0,54,14
+wunder,hourly,2016-03-20 02:00,-4,336,0,2,Partly Cloudy,1028,31,59,0,77,6
+wunder,hourly,2016-03-20 12:00,-6,317,0,0,Partly Cloudy,1028,38,52,0,50,14
+wunder,hourly,2016-03-19 05:00,-4,29,0,1,Overcast,1024,30,99,0,78,14
+wunder,hourly,2016-03-20 04:00,-4,315,0,2,Partly Cloudy,1028,30,59,0,79,5
+wunder,hourly,2016-03-20 13:00,-6,310,0,0,Partly Cloudy,1027,40,58,0,48,13
+wunder,hourly,2016-03-20 01:00,-4,344,0,2,Partly Cloudy,1028,31,56,0,77,8
+wunder,hourly,2016-03-20 10:00,-6,330,0,0,Partly Cloudy,1029,34,42,0,59,13
+wunder,hourly,2016-03-19 07:00,-4,35,0,10,Overcast,1024,31,99,0,80,14
+wunder,hourly,2016-03-19 19:00,-4,352,0,0,Overcast,1026,38,85,0,58,13
+wunder,hourly,2016-03-19 23:00,-4,351,0,2,Partly Cloudy,1028,33,53,0,71,10
+wunder,hourly,2016-03-19 14:00,-4,32,0,15,Overcast,1026,39,95,0,56,13
+wunder,hourly,2016-03-19 11:00,-3,58,0,15,Overcast,1026,35,95,0,71,13
+wunder,hourly,2016-03-19 13:00,-4,47,0,15,Overcast,1026,38,94,0,61,13
+wunder,hourly,2016-03-19 15:00,-4,20,0,15,Overcast,1026,40,97,0,53,13
+wunder,hourly,2016-03-20 03:00,-4,323,0,2,Partly Cloudy,1028,30,57,0,79,5
+wunder,hourly,2016-03-20 09:00,-6,329,0,1,Partly Cloudy,1029,31,45,0,65,10
+wunder,hourly,2016-03-19 21:00,-4,348,0,1,Mostly Cloudy,1027,35,67,0,65,11
+wunder,hourly,2016-03-20 00:00,-4,347,0,2,Partly Cloudy,1028,32,47,0,75,8
+wunder,hourly,2016-03-20 06:00,-5,313,0,13,Partly Cloudy,1028,30,50,0,75,8
+wunder,hourly,2016-03-19 17:00,-4,7,0,15,Overcast,1026,40,94,0,53,14
+wunder,hourly,2016-03-19 22:00,-4,351,0,2,Partly Cloudy,1028,34,57,0,68,10
+wunder,hourly,2016-03-19 12:00,-4,60,0,15,Overcast,1026,36,90,0,65,13
